@@ -9,3 +9,4 @@ httpstan==4.4.1
 PyStan==2.19.1.1
 newsapi-cli==1.2.1
 cmdstanpy==0.9.5
+pip==23.1.2
