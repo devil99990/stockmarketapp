@@ -12,3 +12,4 @@ newsapi-cli==1.2.1
 cmdstanpy==0.9.5
 termcolor==2.3.
 config_pkg==1.1.5
+setuptools==67.8.0
