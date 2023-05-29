@@ -9,4 +9,4 @@ httpstan==4.4.1
 PyStan==2.19.1.1
 newsapi-cli==1.2.1
 prophet==1.1.1
-cmdstanpy==1.1.0
+cmdstanpy==0.9.5
